@@ -1,0 +1,12 @@
+body {
+    background: lightblue;
+  }
+  h1 {
+      text-align: center;
+  }
+  .vincepic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
